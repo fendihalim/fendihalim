@@ -9,4 +9,6 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-This repository contains intriguing data science and financial engineering projects.
+This repository contains:
+1) Data Science Projects 
+2) Financial Engineering Projects.
