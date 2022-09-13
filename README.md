@@ -16,4 +16,8 @@ You can click the Preview link to take a look at your changes.
 4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
 ---
 ## Financial Engineering Projects
-2) [Financial Engineering Projects](https://github.com/fendihalim/fendihalim/tree/main/Financial%20Engineering)
+1. [Credit Risk Modeling of Corporate Bonds](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/credit-risk-modeling/credit-risk-modeling-and-simulation.ipynb)
+2. [Portfolio Strategies Implemented on 2008 Market Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation/portfolio-strategies-2008-crash.ipynb)
+3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation/portfolio-strategies-covid-crash.ipynb)
+4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing/option-asset-pricing.ipynb)
+5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing/option-pricing-report.ipynb)
