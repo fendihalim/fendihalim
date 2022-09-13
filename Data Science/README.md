@@ -1,5 +1,8 @@
 # Data Science Projects
-### 1. [Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
+### 1. [[NLP] Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
+- Build a recommender system model to make predictions related to Amazon Music Reviews. Given a user and review data, predict the review's star rating (1 to 5) as accurately as possible. Notebook outlines the process of building this system including data exploration and preparation, model intepretation, and insights of the resulting model and analysis. 
+- Raw dataset contains some information that can be informative while others are unnecessary and noisy. Therefore data exploration, data cleaning, feature engineering, feature selection were implemented to ensure the highest data quality. 
+- Predictors used for machine learning were *Logistic Regression*, *Linear SVC*, *Linear Regression*, *Decision Tree*, *XGBoost*, and *Random Forest.*
 ### 2. [Covid Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 ### 3. [Ordered Logistic Regression](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/ordinal-logistic-regression-survey.ipynb)
 ### 4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
