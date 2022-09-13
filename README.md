@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 1. [[NLP] Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 2. [COVID-19 Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 3. [Ordered Logistic Regression](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/ordinal-logistic-regression-survey.ipynb)
-4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
+4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter_sentiment_election.ipynb)
 ---
 ## [Financial Engineering Projects](https://github.com/fendihalim/fendihalim/tree/main/Financial%20Engineering)
 **Jump to the projects by clicking on the link below:**
