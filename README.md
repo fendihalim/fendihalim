@@ -9,7 +9,7 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Data Science Projects
+## [Data Science Projects](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
 **Jump to the projects by clicking on the link below:**
 1. [Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 2. [COVID-19 Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
