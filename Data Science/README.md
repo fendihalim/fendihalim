@@ -6,3 +6,7 @@
 ### 2. [Covid Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 ### 3. [Ordered Logistic Regression](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/ordinal-logistic-regression-survey.ipynb)
 ### 4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
+
+
+Inline-style: 
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/A_music_rating_prediction/a-word-cloud.png)
