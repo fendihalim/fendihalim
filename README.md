@@ -9,6 +9,11 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-This repository contains:
-1) [Data Science Projects](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science) 
+## Data Science Projects
+1. [Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
+2. [Covid Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
+3. [Ordered Logistic Regression](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/ordinal-logistic-regression-survey.ipynb)
+4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
+---
+## Financial Engineering Projects
 2) [Financial Engineering Projects](https://github.com/fendihalim/fendihalim/tree/main/Financial%20Engineering)
