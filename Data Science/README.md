@@ -19,5 +19,8 @@
 
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/heatmap-feature-correlation.png)
 ### 4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter-sentiment-election.ipynb)
-
-
+- Compute the sentiment of text information from tweets posted on Canadian Elections. The goal is to use sentiment analysis on Twitter data to get insight into the Canadian Elections.
+- Two datasets were analyzed:
+  1. General tweets that have had their sentiments already analyzed and recorded as binary values 0 (negative) and 1 (positive).
+  2. Canadian Election tweets containing tweets regarding the 2019 Candian PM elections
+-
