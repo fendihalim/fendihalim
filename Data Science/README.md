@@ -23,4 +23,7 @@
 - Two datasets were analyzed:
   1. General tweets that have had their sentiments already analyzed and recorded as binary values 0 (negative) and 1 (positive).
   2. Canadian Election tweets containing tweets regarding the 2019 Candian PM elections
--
+- Technique used:
+  1. Data Cleaning having All html tags and attributes, All URLs, and stopwords removed. Tokenized words were converted into its root word to reduce number of unique features using stemming or lemmatizing methods.
+  2. Tokenized words were converted into Bag of Words (BoW) and TF-IDF in order for our machine to recognize words in a *number* form.
+  3. Seven classification algorithms( were tested in order to get the best model in predicting sentiment analysis data.
