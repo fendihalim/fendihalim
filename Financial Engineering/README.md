@@ -5,7 +5,7 @@
 - ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/MC1.png)
 - ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/MC2.png)
 - The VaR and CVaR of both graphs look similar with the true distribution of VaR and CVaR.
-- In-depth analysis can be observed on the [notebook](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/credit-risk-modeling/credit-risk-modeling-and-simulation.ipynb)
+- In-depth analysis such as sampling error can be observed on the [notebook](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/credit-risk-modeling/credit-risk-modeling-and-simulation.ipynb)
 ### 2. [Portfolio Strategies Implemented on 2008 Market Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing)
