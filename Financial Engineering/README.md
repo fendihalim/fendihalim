@@ -5,7 +5,7 @@
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/MC1.png)
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/MC2.png)
 - The VaR and CVaR of both graphs look similar with the true distribution of VaR and CVaR.
-- In-depth analysis such as sampling error can be observed on the [notebook](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/credit-risk-modeling/credit-risk-modeling-and-simulation.ipynb)
+- To minimize impacts of sampling error, increase the samples / scenarios so that it is closer to the true distribution. In addition to that, Monte Carlo Approximation 2 with extra steps in having more samples is preferred as y (systemic risk random number) is newly generated for every scenario so that approximation is closer to the true distribution. To minimize impacts of model errors, the correct distribution (non-normal) must be used. Normal distribution cannot be used because the result is underestimated compared to the real value.
 ### 2. [Portfolio Strategies Implemented on 2008 Market Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing)
