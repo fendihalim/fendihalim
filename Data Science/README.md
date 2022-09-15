@@ -26,4 +26,4 @@
 - Technique used:
   1. Data Cleaning having All html tags and attributes, All URLs, and stopwords removed. Tokenized words were converted into its root word to reduce number of unique features using stemming or lemmatizing methods.
   2. Tokenized words were converted into Bag of Words (BoW) and TF-IDF in order for our machine to recognize words in a *number* form.
-  3. Seven classification algorithms( were tested in order to get the best model in predicting sentiment analysis data.
+  3. Seven classification algorithms(logistic regression, KNN, Naive Bayes, SVM, Decision Tree, Random Forest, and XGBoost) were tested in order to get the best model in predicting sentiment analysis data. **GridSearchCV()** was used to cross-validate the model and to get the best parameter for our model.
