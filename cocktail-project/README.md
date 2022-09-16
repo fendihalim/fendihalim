@@ -5,7 +5,7 @@
   2. **Contemporary Classics**. Popular drinks from this category are *Cosmopolitan*, *Margarita*, and *Mimosa*
   3. **New Era Drinks**. Popular drinks from this category are *Dark 'n' Stormy*, *Paloma*, and *Espresso Martini*
 
-- This notebook includes all of the IBA official cocktails except *Kir, Mai Tai, Zombie, Barracuda, Canchanchara, Penicilin, Spicy Fifty, and Vento* due to the use of expensive exclusive ingredients and overly complicated steps on making them.
+- This notebook includes all of the IBA official cocktails except *Kir, Mai Tai, Zombie, Barracuda, Canchanchara, Penicillin, Spicy Fifty, and Vento* due to the use of expensive exclusive ingredients and overly complicated steps in making them.
 - Gurobi solver is selected to do this project because it is fast and easy to use. To solve this cocktail optimization, Mixed-Integer Linear Programming method is being used because the decision variable can only take binary value 0 (can't make this cocktail) or 1 (cocktail can be made). Constraints such as ingredients are also binary because we either buy or don't buy.
 - Price of ingredients are in USD from 2020. Further improvement is to web scrape data from liquor store and grocery store.
 ---
