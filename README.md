@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 ---
 - Cocktails are alcoholic mixed drinks which usually colorful and beautifully represented in fancy glasses.
 - The motivation for this project is to answer a question: *"I want to create as many cocktail given a specific budget. How many cocktails can I create and what are the ingredients I need to buy?"*. 
+
 **ipynb files below**
 1. [IBA Official Cocktails](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/ALL-Cocktails.ipynb)
 ## [Data Science Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
