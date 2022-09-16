@@ -28,6 +28,7 @@
 - One-step Monte Carlo Simulation Pricing
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/mc-multi-step.png)
 - Multi-step Monte Carlo Simulation Pricing
+
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/mc-black-result.png)
 - One-step Monte Carlo simulated call option price is the lowest compared to Black-Scholes and multi-step Monte Carlo. Black-Scholes and multi-step MC return very similar call option price. For put option, Black-Scholes return the lowest among the two and multi-step MC gives the highest put option price. In this case, Black-Scholes and one-step MC return very similar put option price. The advantage of using Black-Scholes formula is, it is fast and is a direct formula since there is no simulation associated with it. The disadvantage is there is no room to add avariation over time in volatility. In contrast, Monte Carlo simulation is slower but there is more room for variation.
 ### 5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing)
