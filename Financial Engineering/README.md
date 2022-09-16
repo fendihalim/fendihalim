@@ -10,7 +10,7 @@
 - Seven investment strategies were implemented to build a portfolio which are *Buy and Hold Stategy*, *Equal Weight Strategy*, *Minimum Variance Strategy*, *Maximum Sharpe Ratio Strategy*, *Equal Risk Contribution*, *Leveraged Equal Risk Contribution*, and *Robust Mean-Variance Optimization*.
 - The time horizon of this project is in between 2 January 2020 to 31 December 2022. There will be rebalancing period which happens every two months. In the beginning, the initial portfolio contains 902 shares of HOG and 17500 shares of VZ in which the portfolio value is around USD 1M. Selling and buying transactions however have transaction fee in which 0.5% of the traded volume. Portfolio re-balance happened on the first trading day of each 2-month holding period (up to 12 re-balance during 2 years).
 - CPLEX solver was used to solve optimization problems such as *Minimum Variance Strategy*, *Maximum Sharpe Ratio Strategy*, *Equal Risk Contribution*, *Leveraged Equal Risk Contribution*, and *Robust Mean-Variance Optimization*.
-- 
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/Daily%20Portfolio%20Value%202008-2009.png)
 ### 3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing)
 ### 5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing)
