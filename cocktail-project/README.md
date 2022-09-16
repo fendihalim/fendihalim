@@ -10,9 +10,9 @@
 -The price of ingredients is in USD from 2020. Further improvement is to web scrape data from a liquor store and grocery store.
 ---
 ## How to Navigate File and Customize
-1. Cocktail Names contain variable (can only take binary) for each cocktail
-2. Ingredients Names contain variable (can only take binary) for each ingredient
-3. Objective Function will be the addition of all Cocktail Names. The objective function is set to be maximized because we want the most cocktails we can make
+1. Cocktail Names contain variables (can only take binary) for each cocktail
+2. Ingredients Names contain variables (can only take binary) for each ingredient
+3. The Objective Function will be the addition of all Cocktail Names. The objective function is set to be maximized because we want the most cocktails we can make
 4. Constraints:
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/budget-constraint-cocktail.png)
     1. Budget is the addition of all the ingredients we need to buy along with the price. Number inside the blue box can be adjusted according to user's budget.
