@@ -9,7 +9,7 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## [Cocktail Optimization Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
+## [Cocktail Optimizer Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
 ---
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/images/margarita-giph.gif)
 - Cocktails are alcoholic mixed drinks which usually colorful and beautifully represented in fancy glasses.
