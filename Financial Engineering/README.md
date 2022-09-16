@@ -16,5 +16,7 @@
 ### 3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 - The setup for this project is similar to project 2 except the time horizong of this project is in between 2 January 2020 to 31 December 2021 (COVID-19 period). 
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/Daily%20Portfolio%20Value%202020-2021.png)
+- Initially, the graph started the same and stayed close to each other and started to decline around March 2020 due to coronavirus crash. The major dropped phenomenon is obvious as depicted in the graph by being the lowest point of all these 4 graphs. Even though the market suffered a huge loss, the graphs made a comeback around April, and they escaped from the valley. 
+- In this case, maximum Sharpe ratio strategy with rebalancing every 2 periods is the preferred choice because it gives almost double of what the portfolio starts with, and the graph depicts that it doesn't fluctuate to below 1M at all after the 2020 market crash rebound in April.
 ### 4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing)
 ### 5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing)
