@@ -22,6 +22,9 @@
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-ingredients-constraint.png)
     5. Selected Ingredients is an **OPTIONAL** constraint in case the user really wants to buy a specific ingredient(s). The format of this constraint is similar to Selected Cocktail constraint.
     6. Run the line `milp_model.optimize()` to solve our cocktail problem 
-![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-result.png)
+    
+       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-result.png)
+       
     7. Result such as number of cocktails, which cocktails, and ingredients to buy
    
+This is a first step to create a cocktail optimizer. The next step will be to web scrape from online liquor store and grocery store to get ingredient prices and implement solver on cloud platform such as heroku.com.
