@@ -17,15 +17,15 @@
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/budget-constraint-cocktail.png)
     1. The Budget is the addition of all the ingredients we need to buy along with the price. The number inside the blue box can be adjusted according to the user's budget.
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-constraint.png)
-    3. Cocktail Constraints contain the ingredients to make each cocktail (above is just a sample of all the cocktails)
+    2. Cocktail Constraints contain the ingredients to make each cocktail (above is just a sample of all the cocktails)
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-cocktail-constraint-.png)
-    4. Selected Cocktail is an **OPTIONAL** constraint in case the user really wants a specific drink then he/she can turn it on by adding the preferred cocktail by following the format as written. For example the user wants a gin_fizz, then he/she will type *gin_fiz_s = milp_model.addConstr(gin_fizz == 1, "gin_fizz_s").* Commented lines are examples of the format in the constraints should be written.
+    3. Selected Cocktail is an **OPTIONAL** constraint in case the user really wants a specific drink then he/she can turn it on by adding the preferred cocktail by following the format as written. For example the user wants a gin_fizz, then he/she will type *gin_fiz_s = milp_model.addConstr(gin_fizz == 1, "gin_fizz_s").* Commented lines are examples of the format in the constraints should be written.
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-ingredients-constraint.png)
-    5. Selected Ingredients is an **OPTIONAL** constraint in case the user really wants to buy a specific ingredient(s). The format of this constraint is similar to the Selected Cocktail constraint.
-    6. Run the line `milp_model.optimize()` to solve our cocktail problem 
+    4. Selected Ingredients is an **OPTIONAL** constraint in case the user really wants to buy a specific ingredient(s). The format of this constraint is similar to the Selected Cocktail constraint.
+    5. Run the line `milp_model.optimize()` to solve our cocktail problem 
     
        ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-result.png)
        
-    7. Result such as number of cocktails, which cocktails, and ingredients to buy
+    6. Result such as number of cocktails, which cocktails, and ingredients to buy
    
 This is a first step to create a cocktail optimizer. The next step will be to web scrape from online liquor store and grocery store to get ingredient prices and implement solver on cloud platform such as heroku.com.
