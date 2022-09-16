@@ -7,7 +7,7 @@
 
 - This notebook includes all of the IBA official cocktails except *Kir, Mai Tai, Zombie, Barracuda, Canchanchara, Penicillin, Spicy Fifty, and Vento* due to the use of expensive exclusive ingredients and overly complicated steps in making them.
 - Gurobi solver is selected to do this project because it is fast and easy to use. To solve this cocktail optimization, the Mixed-Integer Linear Programming method is being used because the decision variable can only take binary value 0 (can't make this cocktail) or 1 (cocktail can be made). Constraints such as ingredients are also binary because we either buy or don't buy.
-- Price of ingredients are in USD from 2020. Further improvement is to web scrape data from liquor store and grocery store.
+-The price of ingredients is in USD from 2020. Further improvement is to web scrape data from a liquor store and grocery store.
 ---
 ## How to Navigate File and Customize
 1. Cocktail Names contain variable (can only take binary) for each cocktail
