@@ -29,4 +29,5 @@
        
     6. Result such as number of cocktails, which cocktails, and ingredients to buy
    
-This is a first step to create a cocktail optimizer. The next step will be to web scrape from online liquor store and grocery store to get ingredient prices and implement solver on cloud platform such as heroku.com.
+---
+Note: This is the first version of a cocktail optimizer. The next version will be to web scrape from an online liquor store and grocery store to get ingredient prices and implement solver on a cloud platform such as heroku.com.
