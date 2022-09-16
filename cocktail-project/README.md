@@ -16,7 +16,9 @@
 4. Constraints:
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/budget-constraint-cocktail.png)
     1. The Budget is the addition of all the ingredients we need to buy along with the price. The number inside the blue box can be adjusted according to the user's budget.
-    2. Cocktail Constraints contain the ingredients to make each cocktail
+    
+      ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-constraint.png)
+    3. Cocktail Constraints contain the ingredients to make each cocktail
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-cocktail-constraint-.png)
     4. Selected Cocktail is an **OPTIONAL** constraint in case the user really wants a specific drink then he/she can turn it on by adding the preferred cocktail by following the format as written. For example the user wants a gin_fizz, then he/she will type *gin_fiz_s = milp_model.addConstr(gin_fizz == 1, "gin_fizz_s").* Commented lines are examples of the format the constraints should be written.
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-ingredients-constraint.png)
