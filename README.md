@@ -9,7 +9,7 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Cocktail Project
+## [Cocktail Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
 ---
 ## [Data Science Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
 **ipynb files below**
