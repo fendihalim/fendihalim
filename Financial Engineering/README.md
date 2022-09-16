@@ -35,3 +35,7 @@
 - Similar to project 4, this project contains option pricing of *Asian Call*, *Asian Put*, *Lookback Call*, *Lookback Put*, *Floating Lookback Call*, *Floating Lookback Put*, and *American Put*. 
 - Using Monte Carlo simulation with 10,000 simulations, the option prices obtained were relatively close to the results from the lattice approach. However, number of computations by the lattice approach is only dependent on the size of time steps, while number of computations by Monte Carlo simuulation is dependent on both number of time steps and number of simulations. This may imply that lattice approach generally requires less computations than Monte Carlo simulation in order to estimate option prices with similar level of accuracy, On the other hand, using Monte Carlo simulation could generate variances and confidence intervals of the sample prices.
 - The challenges to price these methods are they require good estimation of parameters such as stock volatility and risk-free rate. One of the limitations is that calculation may require high computational power as time step gets very small as well as number of simulations gets very large.
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/project-5-parameter.png)
+- Parameter for this project
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/variety-option-pricing-result.png)
+- Result
