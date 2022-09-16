@@ -22,5 +22,10 @@
 - This project is about asset pricing on European Option and Knock-in Barrier Option using Black-Scholes and Monte Carlo Simulation. Information such as spot price, strike price, risk-free rate, etc. are provided but number of steps and number of simulations can be selected under user’s discretion.
 - The payoff for European call option is the average of maximum between price at time T minus strike price and 0. The payoff for European put option is the average of maximum between strike price minus price at time T or 0.
 - Knock-in barrier option has similar characteristics in calculating the payoff. For this option to be activated, the stock price must hit the barrier. If the barrier price is above spot price, it is called up-and-in barrier option. On the contrary, if the barrier price is below spot price, it is called down-and-in barrier option. If the barrier is not hit, then the option is worthless.
-
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/parameter.png)
+- Parameter for this project. (Parameter can be changed according to user's discretion)
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/mc-one-step.png)
+- One-step Monte Carlo Simulation Pricing
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/images/mc-multi-step.png)
+- Multi-step Monte Carlo Simulation Pricing
 ### 5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing)
