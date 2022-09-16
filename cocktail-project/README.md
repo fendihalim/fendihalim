@@ -16,7 +16,6 @@
 4. Constraints:
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/budget-constraint-cocktail.png)
     1. The Budget is the addition of all the ingredients we need to buy along with the price. The number inside the blue box can be adjusted according to the user's budget.
-    
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/cocktail-constraint.png)
     3. Cocktail Constraints contain the ingredients to make each cocktail
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-cocktail-constraint-.png)
