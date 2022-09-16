@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## [Cocktail Optimization Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
 ---
-![alt text](<iframe src="https://giphy.com/embed/xUPGcqmqZDD8bkez6g" width="363" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iFHLabs-margarita-beverage-xUPGcqmqZDD8bkez6g">via GIPHY</a></p>)
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/images/margarita-giph.gif)
 - Cocktails are alcoholic mixed drinks which usually colorful and beautifully represented in fancy glasses.
 - The motivation for this project is to answer a question: *"I want to create as many cocktail given a specific budget. How many cocktails can I create and what are the ingredients I need to buy?"*. 
 
