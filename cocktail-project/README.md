@@ -21,3 +21,5 @@
     4. Selected Cocktail is an **OPTIONAL** constraint in case the user really wants a specific drink then he/she can turn it on by adding the preferred cocktail by following the format as written. For example the user wants a gin_fizz, then he/she will type *gin_fiz_s = milp_model.addConstr(gin_fizz == 1, "gin_fizz_s").* Commented lines are examples of the format the constraints should be written.
       ![alt text](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/images/selected-ingredients-constraint.png)
     5. Selected Ingredients is an **OPTIONAL** constraint in case the user really wants to buy a specific ingredient(s). The format of this constraint is similar to Selected Cocktail constraint.
+    6. Run the line `milp_model.optimize()` to solve our cocktail problem
+    7. 
