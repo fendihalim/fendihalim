@@ -9,6 +9,8 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+## Cocktail Project
+---
 ## [Data Science Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
 **ipynb files below**
 1. [[NLP] Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
