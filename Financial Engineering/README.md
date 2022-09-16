@@ -7,6 +7,7 @@
 - The VaR and CVaR of both graphs look similar with the true distribution of VaR and CVaR.
 - To minimize impacts of sampling error, increase the samples / scenarios so that it is closer to the true distribution. In addition to that, Monte Carlo Approximation 2 with extra steps in having more samples is preferred as y (systemic risk random number) is newly generated for every scenario so that approximation is closer to the true distribution. To minimize impacts of model errors, the correct distribution (non-normal) must be used. Normal distribution cannot be used because the result is underestimated compared to the real value.
 ### 2. [Portfolio Strategies Implemented on 2008 Market Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
+- Seven investment strategies were implemented to build a portfolio which are *Buy and Hold Stategy*, *Equal Weight Strategy*, *Minimum Variance Strategy*, *Maximum Sharpe Ratio Strategy*, *Equal Risk Contribution*, *Leveraged Equal Risk Contribution*, and *Robust Mean-Variance Optimization*.
 ### 3. [Portfolio Strategies Simulated on 2020 COVID Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation)
 ### 4. [Option Pricing with Black-Scholes and Monte Carlo Simulation](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-asset-pricing)
 ### 5. [Varities Option Pricing](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/option-pricing)
