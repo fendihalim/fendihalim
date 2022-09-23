@@ -1,4 +1,8 @@
 # Cocktail Optimizer Project
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/images/margarita-giph.gif)
+
+*Mesmerizing GIF by fleishmanhillard.com*
+
 - The IBA official cocktails are the cocktails selected by the International Bartenders Association which are well-known drinks that all bartenders should know how to make
 - IBA official cocktails are divided into three categories:
   1. **The Unforgettables**. Popular drinks from this category are *Daiquiri*, *Negroni*, and *Martini*
