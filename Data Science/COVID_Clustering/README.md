@@ -3,3 +3,4 @@
 - Hypothesis: What do abstracts from COVID-19 journals say about **PPE, medicine, disinfect, exercise, and diet**?
 - Word2Vec is selected as the model selection for this topic because Word2Vec can detect synonymous words based on distance between vectors. For example, eat has a word similarity with consume. This model will be utilized with selected keywords from hypothesis.
 - Using this dendrogram / hierarchical clustering, anyone can identify which keyword belongs to which cluster. This is useful for researchers as they can collaborate to further research and investigate on similar covid topics (same cluster). 
+![alt text](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/dendrogram-hierarchichal-clustering.png)
