@@ -14,6 +14,7 @@
 -The price of ingredients is in USD from 2020. Further improvement is to web scrape data from a liquor store and grocery store.
 ---
 ## How to Navigate File and Customize
+0. This file can be run on jupyter notebook or google colab (https://colab.research.google.com/)
 1. Cocktail Names contain variables (can only take binary) for each cocktail
 2. Ingredients Names contain variables (can only take binary) for each ingredient
 3. The Objective Function will be the addition of all Cocktail Names. The objective function is set to be maximized because we want the most cocktails we can make
