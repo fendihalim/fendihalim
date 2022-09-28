@@ -9,7 +9,7 @@ fendihalim/fendihalim is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## [Cocktail Optimizer Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
+## [1. Cocktail Optimizer Project (Click Here for More Info)](https://github.com/fendihalim/fendihalim/tree/main/cocktail-project)
 ---
 ![alt text](https://github.com/fendihalim/fendihalim/blob/main/images/margarita-giph.gif)
 
@@ -19,14 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 **ipynb file below**
 1. [IBA Official Cocktails Optimizer](https://github.com/fendihalim/fendihalim/blob/main/cocktail-project/ALL-Cocktails.ipynb)
-## [Data Science Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
+## [2. Data Science Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Data%20Science)
 **ipynb files below**
 1. [[NLP] Am*zon Rating Predictor](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 2. [COVID-19 Hierarichal Clustering](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/COVID_Clustering/covid-clustering.ipynb)
 3. [Ordered Logistic Regression](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/ordinal_logistic_regression_survey/ordinal-logistic-regression-survey.ipynb)
 4. [[NLP] Twitter Sentiment Analysis](https://github.com/fendihalim/fendihalim/blob/main/Data%20Science/twitter_sentiment_election/twitter_sentiment_election.ipynb)
 ---
-## [Financial Engineering Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Financial%20Engineering)
+## [3. Financial Engineering Projects (Click Here for Summary of Each Projects)](https://github.com/fendihalim/fendihalim/tree/main/Financial%20Engineering)
 **ipynb files below**
 1. [Credit Risk Modeling of Corporate Bonds](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/credit-risk-modeling/credit-risk-modeling-and-simulation.ipynb)
 2. [Portfolio Strategies Implemented on 2008 Market Crash](https://github.com/fendihalim/fendihalim/blob/main/Financial%20Engineering/financial-optimization-simulation/portfolio-strategies-2008-crash.ipynb)
