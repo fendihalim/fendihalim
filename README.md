@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fendihalim. I'm currently a master of engineering student studying Mechanical and Industrial Engineering at University of Toronto specializing in Data Science and Financial Engineering.
+- 👋 Hi, I’m @fendihalim. I'm currently working as a Sr. Financial Analyst at one of the most popular clothing brands in Canada. I graduated with a master of engineering degree from UofT specializing in Data Science and Financial Engineering.
 - 👀 I’m interested in data science and mathematical optimization in our daily lives
 - 🌱 I’m currently learning Python, PySpark, and SQL
 - 💞️ I’m looking to collaborate on data science projects and optimization
