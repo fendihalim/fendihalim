@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fendihalim. I'm currently in between jobs. I graduated with a master of engineering degree from UofT specializing in Data Science and Financial Engineering.
 - 👀 I’m interested in linear programming, website creation, and anything that can transform people's lives
-- 🌱 I’m currently learning Jekyll
+- 🌱 I’m currently learning Jekyll and have created my WIP website (https://fendihalim.github.io/takemetoeat/). 
 - 💞️ I’m looking to collaborate on website creation and linear programming
 - 📫 How to reach me: twitter @fendihalim
 
